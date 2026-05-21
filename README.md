@@ -56,10 +56,9 @@ To analyze HR data and answer critical business questions such as:
 hr-analytics-employee-attrition/
 │
 ├── 📊 HR_Analytics_Presentation.pptx    # Project presentation slides
-├── 📄 HR_Analytics_Report.docx          # Detailed project report
-├── 📸 screenshots/                       # Presentation preview images
-│   ├── slide1.png
-│   └── slide2.png
+├── 📄 HR_Analytics_Report.docx          # Detailed project report                    
+├── slide1.png                       # Presentation preview images
+├── slide2.png
 └── 📄 README.md                          # Project documentation
 ```
 
@@ -67,9 +66,8 @@ hr-analytics-employee-attrition/
 
 ## 📸 Project Preview
 
-> 📌 *Add screenshots of your presentation slides here*  
-> *(Upload images to the screenshots folder and replace this line with:)*  
-> `![HR Analytics Preview](screenshots/slide1.png)`
+> ![HR Analytics Preview](Slide1.png)
+> ![HR Analytics Preview](Slide2.png)
 
 ---
 
